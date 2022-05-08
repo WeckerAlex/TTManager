@@ -11,9 +11,7 @@ The users will be able to look up
 
 ## Matches
 
-<img src="TTManager_Images\Matches_unidentified.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
-<img src="TTManager_Images\Matches_identified.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
-<img src="TTManager_Images\Matches_Details.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
+<img src="TTManager_Images\Matches_unidentified.png" alt="drawing" width="214px" height="463" /> <img src="TTManager_Images\Matches_identified.png" alt="drawing" width="214px" height="463"/> <img src="TTManager_Images\Matches_Details.png" alt="drawing" width="214px" height="463"/>
 
 ### Description
 The Matches tab is used to display information about official the own Matches. Once the player is
@@ -27,10 +25,7 @@ The own data is stored in the Userdefaults, whereas the matches are stored in th
 
 ## Sports Halls
 
-<img src="TTManager_Images\Map.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
-<img src="TTManager_Images\Map_filter.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
-<img src="TTManager_Images\Club_with_image.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
-<img src="TTManager_Images\Club.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
+<img src="TTManager_Images\Map.png" alt="drawing" width="214px" height="463"/> <img src="TTManager_Images\Map_filter.png" alt="drawing" width="214px" height="463"/> <img src="TTManager_Images\Club_with_image.png" alt="drawing" width="214px" height="463"/> <img src="TTManager_Images\Club.png" alt="drawing" width="214px" height="463"/>
 
 ### Description
 The Sports Halls tab is used to look up information in the apps database. You can look up the
@@ -42,9 +37,7 @@ The image will be compressed and saved to the app’s directory.
 
 ## NPR
 
-<img src="TTManager_Images\NPR.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
-<img src="TTManager_Images\NPR_Highlight.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
-<img src="TTManager_Images\NPR_filter.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
+<img src="TTManager_Images\NPR.png" alt="drawing" width="214px" height="463"/> <img src="TTManager_Images\NPR_Highlight.png" alt="drawing" width="214px" height="463"/> <img src="TTManager_Images\NPR_filter.png" alt="drawing" width="214px" height="463"/>
 
 ### Description
 The NPR tab can be used to look up the national player ranking. Once the player is identified, the
@@ -54,7 +47,7 @@ available filters are the name, the club and the class. These filters can be com
 
 ## Settings
 
-<img src="TTManager_Images\Settings.png" alt="drawing" width="24%" style="max-width: 214px; max-height: 463"/>
+<img src="TTManager_Images\Settings.png" alt="drawing" width="214px" height="463"/>
 
 ### Description
 The Settings tab is used to identify the player by sending the entered Data to the API. If there is a
